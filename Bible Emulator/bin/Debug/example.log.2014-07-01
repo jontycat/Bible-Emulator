@@ -1,0 +1,203 @@
+INFO 9 ActionLogger - Testing, Testing, 123...
+INFO 10 ActionLogger - Testing, Testing, 123...
+INFO 10 ActionLogger - Testing, Testing, 123...
+INFO 9 ActionLogger - Testing, Testing, 123...
+INFO 10 ActionLogger - Testing, Testing, 123...
+DEBUG 21944 AppServer-17113003 - Listener (0.0.0.0:90) was started
+INFO 21944 AppServer-17113003 - The server instance AppServer-17113003 has been started!
+INFO 21944 ActionLogger - Started superSockets on port: 90
+DEBUG 18792 AppServer-36620214 - Listener (0.0.0.0:90) was started
+INFO 18792 AppServer-36620214 - The server instance AppServer-36620214 has been started!
+INFO 18792 ActionLogger - Started superSockets on port: 90
+DEBUG 14808 AppServer-36620214 - Listener (0.0.0.0:90) was started
+INFO 14808 AppServer-36620214 - The server instance AppServer-36620214 has been started!
+DEBUG 20064 AppServer-53820443 - Listener (0.0.0.0:90) was started
+INFO 20064 AppServer-53820443 - The server instance AppServer-53820443 has been started!
+INFO 22016 AppServer-53820443 - Session: da672cf8-c7db-49a4-8fb3-862c5c4482da/127.0.0.1:51950
+A new session connected!
+DEBUG 22388 AppServer-36620214 - Listener (0.0.0.0:90) was started
+INFO 22388 AppServer-36620214 - The server instance AppServer-36620214 has been started!
+INFO 17496 AppServer-36620214 - Session: 30b223be-27ff-41f2-b651-7557fcf68db2/127.0.0.1:52000
+A new session connected!
+DEBUG 17868 AppServer-51746094 - Listener (0.0.0.0:90) was started
+INFO 17868 AppServer-51746094 - The server instance AppServer-51746094 has been started!
+INFO 21908 AppServer-51746094 - Session: aa580432-b0d5-4444-8fc5-ad0e58315b3c/127.0.0.1:52125
+A new session connected!
+DEBUG 21540 AppServer-36620214 - Listener (0.0.0.0:90) was started
+INFO 21540 AppServer-36620214 - The server instance AppServer-36620214 has been started!
+INFO 21484 AppServer-36620214 - Session: 7fd43191-1af1-41de-9a43-6be6d2f169c3/127.0.0.1:52187
+A new session connected!
+DEBUG 19972 AppServer-51746094 - Listener (0.0.0.0:90) was started
+INFO 19972 AppServer-51746094 - The server instance AppServer-51746094 has been started!
+INFO 21728 AppServer-51746094 - Session: 64dac05c-bf50-4c77-8295-c512816cfb97/127.0.0.1:52349
+A new session connected!
+DEBUG 21564 AppServer-26649514 - Listener (0.0.0.0:90) was started
+INFO 21564 AppServer-26649514 - The server instance AppServer-26649514 has been started!
+INFO 16004 AppServer-26649514 - Session: 30b04ab2-14b5-4d18-a546-0bcd3a590e11/127.0.0.1:52696
+A new session connected!
+DEBUG 12060 AppServer-51746094 - Listener (0.0.0.0:90) was started
+INFO 12060 AppServer-51746094 - The server instance AppServer-51746094 has been started!
+INFO 20472 AppServer-51746094 - Session: 5f177883-f98e-4a12-a0f7-d956b667c6bb/127.0.0.1:52756
+A new session connected!
+DEBUG 21140 AppServer-51746094 - Listener (0.0.0.0:90) was started
+INFO 21140 AppServer-51746094 - The server instance AppServer-51746094 has been started!
+INFO 19356 AppServer-51746094 - Session: 416a2126-49ca-46d2-9aa1-4cdf3d9ee45f/127.0.0.1:53798
+A new session connected!
+DEBUG 17636 AppServer-53820443 - Listener (0.0.0.0:90) was started
+INFO 17636 AppServer-53820443 - The server instance AppServer-53820443 has been started!
+INFO 20988 AppServer-53820443 - Session: d6f4cb20-7c14-43ef-93d6-749274188f2b/127.0.0.1:54102
+A new session connected!
+INFO 18808 AppServer-53820443 - Session: d6f4cb20-7c14-43ef-93d6-749274188f2b/127.0.0.1:54102
+This session was closed for ClientClosing!
+INFO 21952 AppServer-53820443 - Session: d050d6c3-8782-4eef-bf47-73f7eeb1291f/127.0.0.1:54254
+A new session connected!
+INFO 21616 AppServer-53820443 - Session: d050d6c3-8782-4eef-bf47-73f7eeb1291f/127.0.0.1:54254
+This session was closed for ClientClosing!
+DEBUG 17844 AppServer-51746094 - Listener (0.0.0.0:90) was started
+INFO 17844 AppServer-51746094 - The server instance AppServer-51746094 has been started!
+DEBUG 18256 AppServer-36620214 - Listener (0.0.0.0:90) was started
+INFO 18256 AppServer-36620214 - The server instance AppServer-36620214 has been started!
+DEBUG 3644 AppServer-36620214 - Listener (0.0.0.0:90) was started
+INFO 3644 AppServer-36620214 - The server instance AppServer-36620214 has been started!
+INFO 3284 AppServer-36620214 - Session: 8e0f6b96-1b8c-4548-82c5-0e871396faa0/127.0.0.1:51239
+A new session connected!
+DEBUG 20000 AppServer-26649514 - Listener (0.0.0.0:90) was started
+INFO 20000 AppServer-26649514 - The server instance AppServer-26649514 has been started!
+INFO 22136 AppServer-26649514 - Session: 94c81757-3786-42cc-9d2c-e4d6883a5ae3/127.0.0.1:52840
+A new session connected!
+DEBUG 12144 AppServer-39948218 - Listener (0.0.0.0:90) was started
+INFO 12144 AppServer-39948218 - The server instance AppServer-39948218 has been started!
+DEBUG 20564 AppServer-51746094 - Listener (0.0.0.0:90) was started
+INFO 20564 AppServer-51746094 - The server instance AppServer-51746094 has been started!
+INFO 11868 AppServer-51746094 - Session: ef8b03f9-03d0-449f-8df4-9a96b9442326/127.0.0.1:53200
+A new session connected!
+DEBUG 19268 AppServer-53820443 - Listener (0.0.0.0:90) was started
+INFO 19268 AppServer-53820443 - The server instance AppServer-53820443 has been started!
+INFO 19000 AppServer-53820443 - Session: 144eae72-e337-4943-8ed7-ed158db301fa/127.0.0.1:53500
+A new session connected!
+DEBUG 17456 AppServer-51746094 - Listener (0.0.0.0:90) was started
+INFO 17456 AppServer-51746094 - The server instance AppServer-51746094 has been started!
+ERROR 22224 ActionLogger - Failed to configure superSockets, please check your sockets.xml config file!
+ERROR 22084 ActionLogger - Failed to configure superSockets, please check your sockets.xml config file!
+ERROR 17168 ActionLogger - Failed to configure superSockets, please check your sockets.xml config file!
+ERROR 4132 ActionLogger - Failed to configure superSockets, please check your sockets.xml config file!
+ERROR 16344 ActionLogger - Value cannot be null.
+Parameter name: config
+ERROR 17900 ActionLogger - Value cannot be null.
+Parameter name: config
+ERROR 17792 ActionLogger - Value cannot be null.
+Parameter name: config
+ERROR 17976 ActionLogger - Value cannot be null.
+Parameter name: config
+ERROR 16484 ActionLogger - Value cannot be null.
+Parameter name: config
+ERROR 19168 ActionLogger - Value cannot be null.
+Parameter name: config
+ERROR 18960 ActionLogger - Value cannot be null.
+Parameter name: config
+ERROR 16484 ActionLogger - Value cannot be null.
+Parameter name: config
+ERROR 21176 ActionLogger - Value cannot be null.
+Parameter name: config
+ERROR 22304 ActionLogger - Object reference not set to an instance of an object.
+ERROR 20908 ActionLogger - Object reference not set to an instance of an object.
+ERROR 15872 ActionLogger - Object reference not set to an instance of an object.
+ERROR 21976 ActionLogger - Object reference not set to an instance of an object.
+ERROR 22248 ActionLogger - Object reference not set to an instance of an object.
+ERROR 14244 ActionLogger - Object reference not set to an instance of an object.
+ERROR 14988 ActionLogger - Configuration file socket.xml does not have root <configuration> tag (C:\Users\Andy\documents\visual studio 2010\Projects\Debbo v5\Debbo v5\bin\Debug\socket.xml line 1)
+ERROR 2688 ActionLogger - Configuration file socket.xml does not have root <configuration> tag (C:\Users\Andy\documents\visual studio 2010\Projects\Debbo v5\Debbo v5\bin\Debug\socket.xml line 1)
+ERROR 20040 ActionLogger - Configuration file socket.xml does not have root <configuration> tag (C:\Users\Andy\documents\visual studio 2010\Projects\Debbo v5\Debbo v5\bin\Debug\socket.xml line 1)
+ERROR 20908 ActionLogger - Value cannot be null.
+Parameter name: config
+ERROR 19168 ActionLogger - Object reference not set to an instance of an object.
+ERROR 20508 ActionLogger - Object reference not set to an instance of an object.
+ERROR 3040 ActionLogger - Object reference not set to an instance of an object.
+ERROR 20712 ActionLogger - Value cannot be null.
+Parameter name: config
+ERROR 16356 ActionLogger - Object reference not set to an instance of an object.
+ERROR 21464 ActionLogger - Object reference not set to an instance of an object.
+ERROR 21400 ActionLogger - Object reference not set to an instance of an object.
+ERROR 21496 ActionLogger - Object reference not set to an instance of an object.
+ERROR 21432 DefaultBootstrap - System.Exception: Failed to find a service for server DebboNetworkConnection!
+   at SuperSocket.SocketEngine.WorkItemFactoryInfoLoader.LoadResult(Func`2 serverConfigResolver)
+   at SuperSocket.SocketEngine.DefaultBootstrap.Initialize(Func`2 serverConfigResolver, ILogFactory logFactory)
+ERROR 21432 DefaultBootstrap - You cannot invoke method Start() before initializing!
+ERROR 19016 ActionLogger - Configuration file socket.xml does not have root <configuration> tag (C:\Users\Andy\documents\visual studio 2010\Projects\Debbo v5\Debbo v5\bin\Debug\socket.xml line 1)
+ERROR 21880 ActionLogger - Data at the root level is invalid. Line 1, position 1. (C:\Users\Andy\documents\visual studio 2010\Projects\Debbo v5\Debbo v5\bin\Debug\socket.xml line 1)
+ERROR 21280 DefaultBootstrap - Failed to create server instance TelnetServerA!
+System.IO.FileNotFoundException: Could not load file or assembly 'SuperSocket.QuickStart.TelnetServer_StartByConfig' or one of its dependencies. The system cannot find the file specified.
+File name: 'SuperSocket.QuickStart.TelnetServer_StartByConfig'
+   at System.RuntimeTypeHandle.GetTypeByName(String name, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMarkHandle stackMark, IntPtr pPrivHostBinder, Boolean loadTypeFromPartialName, ObjectHandleOnStack type)
+   at System.RuntimeTypeHandle.GetTypeByName(String name, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean loadTypeFromPartialName)
+   at System.RuntimeType.GetType(String typeName, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMark& stackMark)
+   at System.Type.GetType(String typeName, Boolean throwOnError)
+   at SuperSocket.SocketEngine.DefaultBootstrap.CreateWorkItemInstance(String serviceTypeName, StatusInfoAttribute[] serverStatusMetadata)
+   at SuperSocket.SocketEngine.DefaultBootstrap.InitializeAndSetupWorkItem(WorkItemFactoryInfo factoryInfo)
+
+=== Pre-bind state information ===
+LOG: User = Computer\Andy
+LOG: DisplayName = SuperSocket.QuickStart.TelnetServer_StartByConfig
+ (Partial)
+WRN: Partial binding information was supplied for an assembly:
+WRN: Assembly Name: SuperSocket.QuickStart.TelnetServer_StartByConfig | Domain ID: 1
+WRN: A partial bind occurs when only part of the assembly display name is provided.
+WRN: This might result in the binder loading an incorrect assembly.
+WRN: It is recommended to provide a fully specified textual identity for the assembly,
+WRN: that consists of the simple name, version, culture, and public key token.
+WRN: See whitepaper http://go.microsoft.com/fwlink/?LinkId=109270 for more information and common solutions to this issue.
+LOG: Appbase = file:///C:/Users/Andy/documents/visual studio 2010/Projects/Debbo v5/Debbo v5/bin/Debug/
+LOG: Initial PrivatePath = NULL
+Calling assembly : SuperSocket.SocketEngine, Version=1.6.2.0, Culture=neutral, PublicKeyToken=6c80000676988ebb.
+===
+LOG: This bind starts in default load context.
+LOG: Using application configuration file: C:\Users\Andy\documents\visual studio 2010\Projects\Debbo v5\Debbo v5\bin\Debug\Debbo v5.vshost.exe.config
+LOG: Using host configuration file: 
+LOG: Using machine configuration file from C:\Windows\Microsoft.NET\Framework\v4.0.30319\config\machine.config.
+LOG: Policy not being applied to reference at this time (private, custom, partial, or location-based assembly bind).
+LOG: Attempting download of new URL file:///C:/Users/Andy/documents/visual studio 2010/Projects/Debbo v5/Debbo v5/bin/Debug/SuperSocket.QuickStart.TelnetServer_StartByConfig.DLL.
+LOG: Attempting download of new URL file:///C:/Users/Andy/documents/visual studio 2010/Projects/Debbo v5/Debbo v5/bin/Debug/SuperSocket.QuickStart.TelnetServer_StartByConfig/SuperSocket.QuickStart.TelnetServer_StartByConfig.DLL.
+LOG: Attempting download of new URL file:///C:/Users/Andy/documents/visual studio 2010/Projects/Debbo v5/Debbo v5/bin/Debug/SuperSocket.QuickStart.TelnetServer_StartByConfig.EXE.
+LOG: Attempting download of new URL file:///C:/Users/Andy/documents/visual studio 2010/Projects/Debbo v5/Debbo v5/bin/Debug/SuperSocket.QuickStart.TelnetServer_StartByConfig/SuperSocket.QuickStart.TelnetServer_StartByConfig.EXE.
+
+ERROR 21280 DefaultBootstrap - You cannot invoke method Start() before initializing!
+ERROR 21864 DefaultBootstrap - System.Exception: the specific log factory 'ActionLogger' cannot be found!
+   at SuperSocket.SocketEngine.WorkItemFactoryInfoLoader.LoadResult(Func`2 serverConfigResolver)
+   at SuperSocket.SocketEngine.DefaultBootstrap.Initialize(Func`2 serverConfigResolver, ILogFactory logFactory)
+ERROR 21864 DefaultBootstrap - You cannot invoke method Start() before initializing!
+ERROR 21704 DefaultBootstrap - Failed to create server instance TelnetServerA!
+System.IO.FileNotFoundException: Could not load file or assembly 'SuperSocket.QuickStart.TelnetServer_StartByConfig' or one of its dependencies. The system cannot find the file specified.
+File name: 'SuperSocket.QuickStart.TelnetServer_StartByConfig'
+   at System.RuntimeTypeHandle.GetTypeByName(String name, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMarkHandle stackMark, IntPtr pPrivHostBinder, Boolean loadTypeFromPartialName, ObjectHandleOnStack type)
+   at System.RuntimeTypeHandle.GetTypeByName(String name, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean loadTypeFromPartialName)
+   at System.RuntimeType.GetType(String typeName, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMark& stackMark)
+   at System.Type.GetType(String typeName, Boolean throwOnError)
+   at SuperSocket.SocketEngine.DefaultBootstrap.CreateWorkItemInstance(String serviceTypeName, StatusInfoAttribute[] serverStatusMetadata)
+   at SuperSocket.SocketEngine.DefaultBootstrap.InitializeAndSetupWorkItem(WorkItemFactoryInfo factoryInfo)
+
+=== Pre-bind state information ===
+LOG: User = Computer\Andy
+LOG: DisplayName = SuperSocket.QuickStart.TelnetServer_StartByConfig
+ (Partial)
+WRN: Partial binding information was supplied for an assembly:
+WRN: Assembly Name: SuperSocket.QuickStart.TelnetServer_StartByConfig | Domain ID: 1
+WRN: A partial bind occurs when only part of the assembly display name is provided.
+WRN: This might result in the binder loading an incorrect assembly.
+WRN: It is recommended to provide a fully specified textual identity for the assembly,
+WRN: that consists of the simple name, version, culture, and public key token.
+WRN: See whitepaper http://go.microsoft.com/fwlink/?LinkId=109270 for more information and common solutions to this issue.
+LOG: Appbase = file:///C:/Users/Andy/documents/visual studio 2010/Projects/Debbo v5/Debbo v5/bin/Debug/
+LOG: Initial PrivatePath = NULL
+Calling assembly : SuperSocket.SocketEngine, Version=1.6.2.0, Culture=neutral, PublicKeyToken=6c80000676988ebb.
+===
+LOG: This bind starts in default load context.
+LOG: Using application configuration file: C:\Users\Andy\documents\visual studio 2010\Projects\Debbo v5\Debbo v5\bin\Debug\Debbo v5.vshost.exe.config
+LOG: Using host configuration file: 
+LOG: Using machine configuration file from C:\Windows\Microsoft.NET\Framework\v4.0.30319\config\machine.config.
+LOG: Policy not being applied to reference at this time (private, custom, partial, or location-based assembly bind).
+LOG: Attempting download of new URL file:///C:/Users/Andy/documents/visual studio 2010/Projects/Debbo v5/Debbo v5/bin/Debug/SuperSocket.QuickStart.TelnetServer_StartByConfig.DLL.
+LOG: Attempting download of new URL file:///C:/Users/Andy/documents/visual studio 2010/Projects/Debbo v5/Debbo v5/bin/Debug/SuperSocket.QuickStart.TelnetServer_StartByConfig/SuperSocket.QuickStart.TelnetServer_StartByConfig.DLL.
+LOG: Attempting download of new URL file:///C:/Users/Andy/documents/visual studio 2010/Projects/Debbo v5/Debbo v5/bin/Debug/SuperSocket.QuickStart.TelnetServer_StartByConfig.EXE.
+LOG: Attempting download of new URL file:///C:/Users/Andy/documents/visual studio 2010/Projects/Debbo v5/Debbo v5/bin/Debug/SuperSocket.QuickStart.TelnetServer_StartByConfig/SuperSocket.QuickStart.TelnetServer_StartByConfig.EXE.
+
+ERROR 21704 DefaultBootstrap - You cannot invoke method Start() before initializing!

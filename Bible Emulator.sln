@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Express 2012 for Windows Desktop
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bible Emulator", "..\..\Bible\Bible Emulator.csproj", "{3D14122F-808D-4928-8627-FC855B3C24ED}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bible Emulator", "Bible Emulator\Bible Emulator.csproj", "{3D14122F-808D-4928-8627-FC855B3C24ED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

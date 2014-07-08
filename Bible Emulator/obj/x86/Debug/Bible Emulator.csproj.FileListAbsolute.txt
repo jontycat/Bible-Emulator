@@ -1,0 +1,22 @@
+C:\Users\Andy\documents\visual studio 2010\Projects\Debbo v5\Debbo v5\bin\Debug\Bible Emulator.exe.config
+C:\Users\Andy\documents\visual studio 2010\Projects\Debbo v5\Debbo v5\bin\Debug\Bible Emulator.exe
+C:\Users\Andy\documents\visual studio 2010\Projects\Debbo v5\Debbo v5\bin\Debug\Bible Emulator.pdb
+C:\Users\Andy\documents\visual studio 2010\Projects\Debbo v5\Debbo v5\obj\x86\Debug\Bible Emulator.csprojResolveAssemblyReference.cache
+C:\Users\Andy\documents\visual studio 2010\Projects\Debbo v5\Debbo v5\obj\x86\Debug\Bible Emulator.exe
+C:\Users\Andy\documents\visual studio 2010\Projects\Debbo v5\Debbo v5\obj\x86\Debug\Bible Emulator.pdb
+C:\Users\Jonty\Documents\Bible Emulator 0.01\Bible Emulator 0.01\Debbo v5\bin\Debug\Bible Emulator.exe.config
+C:\Users\Jonty\Documents\Bible Emulator 0.01\Bible Emulator 0.01\Debbo v5\obj\x86\Debug\Bible Emulator.exe
+C:\Users\Jonty\Documents\Bible Emulator 0.01\Bible Emulator 0.01\Debbo v5\obj\x86\Debug\Bible Emulator.pdb
+C:\Users\Jonty\Documents\Bible Emulator 0.01\Bible Emulator 0.01\Debbo v5\bin\Debug\Bible Emulator.exe
+C:\Users\Jonty\Documents\Bible Emulator 0.01\Bible Emulator 0.01\Debbo v5\bin\Debug\Bible Emulator.pdb
+C:\Users\Jonty\Documents\Bible Emulator 0.01\Bible Emulator 0.01\Debbo v5\obj\x86\Debug\Bible Emulator.csprojResolveAssemblyReference.cache
+C:\Users\Jonty\Documents\Bible Emulator 0.01\Bible Emulator 0.01\Debbo v5\bin\Debug\MySql.Data.dll
+C:\Users\Jonty\Desktop\Bible\bin\Debug\Bible Emulator.exe.config
+C:\Users\Jonty\Desktop\Bible\obj\x86\Debug\Bible Emulator.exe
+C:\Users\Jonty\Desktop\Bible\obj\x86\Debug\Bible Emulator.pdb
+C:\Users\Jonty\Desktop\Bible\bin\Debug\Bible Emulator.exe
+C:\Users\Jonty\Desktop\Bible\bin\Debug\Bible Emulator.pdb
+C:\Users\Jonty\Desktop\Bible\obj\x86\Debug\Bible Emulator.csprojResolveAssemblyReference.cache
+C:\Users\Jonty\Desktop\Bible R63B\Bible Emulator\Bible Emulator\bin\Debug\Bible Emulator.exe.config
+C:\Users\Jonty\Desktop\Bible R63B\Bible Emulator\Bible Emulator\obj\x86\Debug\Bible Emulator.exe
+C:\Users\Jonty\Desktop\Bible R63B\Bible Emulator\Bible Emulator\obj\x86\Debug\Bible Emulator.pdb

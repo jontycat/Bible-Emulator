@@ -1,0 +1,11 @@
+C:\Users\Andy\AppData\Local\Temporary Projects\Debbo v5\bin\Debug\Debbo v5.exe
+C:\Users\Andy\AppData\Local\Temporary Projects\Debbo v5\bin\Debug\Debbo v5.pdb
+C:\Users\Andy\AppData\Local\Temporary Projects\Debbo v5\obj\x86\Debug\Debbo v5.exe
+C:\Users\Andy\AppData\Local\Temporary Projects\Debbo v5\obj\x86\Debug\Debbo v5.pdb
+C:\Users\Andy\documents\visual studio 2010\Projects\Debbo v5\Debbo v5\obj\x86\Debug\Debbo v5.exe
+C:\Users\Andy\documents\visual studio 2010\Projects\Debbo v5\Debbo v5\obj\x86\Debug\Debbo v5.pdb
+C:\Users\Andy\documents\visual studio 2010\Projects\Debbo v5\Debbo v5\obj\x86\Debug\Debbo v5.csprojResolveAssemblyReference.cache
+C:\Users\Andy\documents\visual studio 2010\Projects\Debbo v5\Debbo v5\bin\Debug\Debbo v5.exe.config
+C:\Users\Andy\documents\visual studio 2010\Projects\Debbo v5\Debbo v5\bin\Debug\Debbo v5.exe
+C:\Users\Andy\documents\visual studio 2010\Projects\Debbo v5\Debbo v5\bin\Debug\Debbo v5.pdb
+C:\Users\Andy\documents\visual studio 2010\Projects\Debbo v5\Debbo v5\bin\Debug\Bible Emulator.exe.config

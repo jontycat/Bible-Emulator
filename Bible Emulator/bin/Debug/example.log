@@ -1,0 +1,143 @@
+INFO 10 ActionLogger - SessionManager instantiated successfully!
+INFO 10 ActionLogger - MessageHandler instantiated successfully!
+INFO 10 ActionLogger - Registered >> InitCryptoMessageEvent
+INFO 10 ActionLogger - Loaded MessageDictionary with [1] value(s)!
+INFO 10 ActionLogger - MySQL Configuration set
+INFO 10 ActionLogger - MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts.
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool..ctor(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPoolManager.GetPool(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at Bible.Framework.DatabaseManager.Database..ctor(String Hostname, UInt32 PortBase, String Username, String Password, String DatabaseName, UInt32 MinPoolSize, UInt32 MaxPoolSize) in c:\Users\Jonty\Desktop\Bible\Framework\Database\DatabaseManager.cs:line 45
+INFO 10 ActionLogger - Listening for connections on port 30000
+INFO 9 ActionLogger - SessionManager instantiated successfully!
+INFO 9 ActionLogger - MessageHandler instantiated successfully!
+INFO 9 ActionLogger - Registered >> InitCryptoMessageEvent
+INFO 9 ActionLogger - Loaded MessageDictionary with [1] value(s)!
+INFO 9 ActionLogger - MySQL Configuration set
+INFO 9 ActionLogger - MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts.
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool..ctor(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPoolManager.GetPool(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at Bible.Framework.DatabaseManager.Database..ctor(String Hostname, UInt32 PortBase, String Username, String Password, String DatabaseName, UInt32 MinPoolSize, UInt32 MaxPoolSize) in c:\Users\Jonty\Desktop\Bible\Framework\Database\DatabaseManager.cs:line 45
+INFO 8 ActionLogger - SessionManager instantiated successfully!
+INFO 8 ActionLogger - MessageHandler instantiated successfully!
+INFO 8 ActionLogger - Registered >> InitCryptoMessageEvent
+INFO 8 ActionLogger - Loaded MessageDictionary with [1] value(s)!
+INFO 8 ActionLogger - MySQL Configuration set
+INFO 8 ActionLogger - Failed to connect to MySQL database. Please check your configuration file.
+INFO 10 ActionLogger - SessionManager instantiated successfully!
+INFO 10 ActionLogger - MessageHandler instantiated successfully!
+INFO 10 ActionLogger - Registered >> InitCryptoMessageEvent
+INFO 10 ActionLogger - Loaded MessageDictionary with [1] value(s)!
+INFO 10 ActionLogger - MySQL Configuration set
+INFO 10 ActionLogger - Failed to connect to MySQL database. Please check the configuration file.
+INFO 9 ActionLogger - SessionManager instantiated successfully!
+INFO 9 ActionLogger - MessageHandler instantiated successfully!
+INFO 9 ActionLogger - Registered >> InitCryptoMessageEvent
+INFO 9 ActionLogger - Loaded MessageDictionary with [1] value(s)!
+INFO 9 ActionLogger - MySQL Configuration set
+INFO 9 ActionLogger - Failed to connect to MySQL database. Please check the configuration file.MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts.
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool..ctor(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPoolManager.GetPool(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at Bible.Framework.DatabaseManager.Database..ctor(String Hostname, UInt32 PortBase, String Username, String Password, String DatabaseName, UInt32 MinPoolSize, UInt32 MaxPoolSize) in c:\Users\Jonty\Desktop\Bible\Framework\Database\DatabaseManager.cs:line 45
+INFO 10 ActionLogger - SessionManager instantiated successfully!
+INFO 10 ActionLogger - MessageHandler instantiated successfully!
+INFO 10 ActionLogger - Registered >> InitCryptoMessageEvent
+INFO 10 ActionLogger - Loaded MessageDictionary with [1] value(s)!
+INFO 10 ActionLogger - MySQL Configuration set
+INFO 10 ActionLogger - Failed to connect to MySQL database. Please check the configuration file.
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts.
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool..ctor(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPoolManager.GetPool(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at Bible.Framework.DatabaseManager.Database..ctor(String Hostname, UInt32 PortBase, String Username, String Password, String DatabaseName, UInt32 MinPoolSize, UInt32 MaxPoolSize) in c:\Users\Jonty\Desktop\Bible\Framework\Database\DatabaseManager.cs:line 45
+INFO 10 ActionLogger - SessionManager instantiated successfully!
+INFO 10 ActionLogger - MessageHandler instantiated successfully!
+INFO 10 ActionLogger - Registered >> InitCryptoMessageEvent
+INFO 10 ActionLogger - Loaded MessageDictionary with [1] value(s)!
+INFO 10 ActionLogger - MySQL Configuration set
+INFO 10 ActionLogger - Failed to connect to MySQL database. Please check the configuration file.
+ 
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts.
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool..ctor(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPoolManager.GetPool(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at Bible.Framework.DatabaseManager.Database..ctor(String Hostname, UInt32 PortBase, String Username, String Password, String DatabaseName, UInt32 MinPoolSize, UInt32 MaxPoolSize) in c:\Users\Jonty\Desktop\Bible\Framework\Database\DatabaseManager.cs:line 45
+INFO 9 ActionLogger - SessionManager instantiated successfully!
+INFO 9 ActionLogger - MessageHandler instantiated successfully!
+INFO 9 ActionLogger - Registered >> InitCryptoMessageEvent
+INFO 9 ActionLogger - Loaded MessageDictionary with [1] value(s)!
+INFO 9 ActionLogger - MySQL Configuration set
+INFO 9 ActionLogger - Failed to connect to MySQL database. Please check the configuration file. Error shown below:
+INFO 9 ActionLogger - MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts.
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool..ctor(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPoolManager.GetPool(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at Bible.Framework.DatabaseManager.Database..ctor(String Hostname, UInt32 PortBase, String Username, String Password, String DatabaseName, UInt32 MinPoolSize, UInt32 MaxPoolSize) in c:\Users\Jonty\Desktop\Bible\Framework\Database\DatabaseManager.cs:line 45
+INFO 9 ActionLogger - SessionManager instantiated successfully!
+INFO 9 ActionLogger - MessageHandler instantiated successfully!
+INFO 9 ActionLogger - Registered >> InitCryptoMessageEvent
+INFO 9 ActionLogger - Loaded MessageDictionary with [1] value(s)!
+INFO 9 ActionLogger - MySQL Configuration set
+ERROR 9 ActionLogger - Failed to connect to MySQL database. Please check the configuration file. Error shown below:
+INFO 9 ActionLogger - MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts.
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool..ctor(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPoolManager.GetPool(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at Bible.Framework.DatabaseManager.Database..ctor(String Hostname, UInt32 PortBase, String Username, String Password, String DatabaseName, UInt32 MinPoolSize, UInt32 MaxPoolSize) in c:\Users\Jonty\Desktop\Bible\Framework\Database\DatabaseManager.cs:line 45
+INFO 9 ActionLogger - SessionManager instantiated successfully!
+INFO 9 ActionLogger - MessageHandler instantiated successfully!
+INFO 9 ActionLogger - Registered >> InitCryptoMessageEvent
+INFO 9 ActionLogger - Loaded MessageDictionary with [1] value(s)!
+INFO 9 ActionLogger - MySQL Configuration set
+ERROR 9 ActionLogger - Failed to connect to MySQL database. Please check the configuration file. Error shown below:
+ERROR 9 ActionLogger - MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts.
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool..ctor(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPoolManager.GetPool(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at Bible.Framework.DatabaseManager.Database..ctor(String Hostname, UInt32 PortBase, String Username, String Password, String DatabaseName, UInt32 MinPoolSize, UInt32 MaxPoolSize) in c:\Users\Jonty\Desktop\Bible\Framework\Database\DatabaseManager.cs:line 45
+INFO 10 ActionLogger - SessionManager instantiated successfully!
+INFO 10 ActionLogger - MessageHandler instantiated successfully!
+INFO 10 ActionLogger - Registered >> InitCryptoMessageEvent
+INFO 10 ActionLogger - Loaded MessageDictionary with [1] value(s)!
+INFO 10 ActionLogger - MySQL Configuration set
+ERROR 10 ActionLogger - Failed to connect to MySQL database. Please check the configuration file. Error shown below:
+INFO 9 ActionLogger - SessionManager instantiated successfully!
+INFO 9 ActionLogger - MessageHandler instantiated successfully!
+INFO 9 ActionLogger - Registered >> InitCryptoMessageEvent
+INFO 9 ActionLogger - Loaded MessageDictionary with [1] value(s)!
+INFO 9 ActionLogger - MySQL Configuration set
+ERROR 9 ActionLogger - Failed to connect to MySQL database. Please check the configuration file. Error shown below:

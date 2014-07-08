@@ -1,0 +1,468 @@
+ERROR 13120 DefaultBootstrap - Failed to create server instance TelnetServerA!
+System.IO.FileNotFoundException: Could not load file or assembly 'SuperSocket.QuickStart.TelnetServer_StartByConfig' or one of its dependencies. The system cannot find the file specified.
+File name: 'SuperSocket.QuickStart.TelnetServer_StartByConfig'
+   at System.RuntimeTypeHandle.GetTypeByName(String name, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMarkHandle stackMark, IntPtr pPrivHostBinder, Boolean loadTypeFromPartialName, ObjectHandleOnStack type)
+   at System.RuntimeTypeHandle.GetTypeByName(String name, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean loadTypeFromPartialName)
+   at System.RuntimeType.GetType(String typeName, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMark& stackMark)
+   at System.Type.GetType(String typeName, Boolean throwOnError)
+   at SuperSocket.SocketEngine.DefaultBootstrap.CreateWorkItemInstance(String serviceTypeName, StatusInfoAttribute[] serverStatusMetadata)
+   at SuperSocket.SocketEngine.DefaultBootstrap.InitializeAndSetupWorkItem(WorkItemFactoryInfo factoryInfo)
+
+=== Pre-bind state information ===
+LOG: User = Computer\Andy
+LOG: DisplayName = SuperSocket.QuickStart.TelnetServer_StartByConfig
+ (Partial)
+WRN: Partial binding information was supplied for an assembly:
+WRN: Assembly Name: SuperSocket.QuickStart.TelnetServer_StartByConfig | Domain ID: 1
+WRN: A partial bind occurs when only part of the assembly display name is provided.
+WRN: This might result in the binder loading an incorrect assembly.
+WRN: It is recommended to provide a fully specified textual identity for the assembly,
+WRN: that consists of the simple name, version, culture, and public key token.
+WRN: See whitepaper http://go.microsoft.com/fwlink/?LinkId=109270 for more information and common solutions to this issue.
+LOG: Appbase = file:///C:/Users/Andy/documents/visual studio 2010/Projects/Debbo v5/Debbo v5/bin/Debug/
+LOG: Initial PrivatePath = NULL
+Calling assembly : SuperSocket.SocketEngine, Version=1.6.2.0, Culture=neutral, PublicKeyToken=6c80000676988ebb.
+===
+LOG: This bind starts in default load context.
+LOG: Using application configuration file: C:\Users\Andy\documents\visual studio 2010\Projects\Debbo v5\Debbo v5\bin\Debug\Debbo v5.vshost.exe.config
+LOG: Using host configuration file: 
+LOG: Using machine configuration file from C:\Windows\Microsoft.NET\Framework\v4.0.30319\config\machine.config.
+LOG: Policy not being applied to reference at this time (private, custom, partial, or location-based assembly bind).
+LOG: Attempting download of new URL file:///C:/Users/Andy/documents/visual studio 2010/Projects/Debbo v5/Debbo v5/bin/Debug/SuperSocket.QuickStart.TelnetServer_StartByConfig.DLL.
+LOG: Attempting download of new URL file:///C:/Users/Andy/documents/visual studio 2010/Projects/Debbo v5/Debbo v5/bin/Debug/SuperSocket.QuickStart.TelnetServer_StartByConfig/SuperSocket.QuickStart.TelnetServer_StartByConfig.DLL.
+LOG: Attempting download of new URL file:///C:/Users/Andy/documents/visual studio 2010/Projects/Debbo v5/Debbo v5/bin/Debug/SuperSocket.QuickStart.TelnetServer_StartByConfig.EXE.
+LOG: Attempting download of new URL file:///C:/Users/Andy/documents/visual studio 2010/Projects/Debbo v5/Debbo v5/bin/Debug/SuperSocket.QuickStart.TelnetServer_StartByConfig/SuperSocket.QuickStart.TelnetServer_StartByConfig.EXE.
+
+ERROR 13120 DefaultBootstrap - You cannot invoke method Start() before initializing!
+ERROR 21884 DefaultBootstrap - Failed to create server instance TelnetServerA!
+System.IO.FileNotFoundException: Could not load file or assembly 'SuperSocket.QuickStart.TelnetServer_StartByConfig' or one of its dependencies. The system cannot find the file specified.
+File name: 'SuperSocket.QuickStart.TelnetServer_StartByConfig'
+   at System.RuntimeTypeHandle.GetTypeByName(String name, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMarkHandle stackMark, IntPtr pPrivHostBinder, Boolean loadTypeFromPartialName, ObjectHandleOnStack type)
+   at System.RuntimeTypeHandle.GetTypeByName(String name, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean loadTypeFromPartialName)
+   at System.RuntimeType.GetType(String typeName, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMark& stackMark)
+   at System.Type.GetType(String typeName, Boolean throwOnError)
+   at SuperSocket.SocketEngine.DefaultBootstrap.CreateWorkItemInstance(String serviceTypeName, StatusInfoAttribute[] serverStatusMetadata)
+   at SuperSocket.SocketEngine.DefaultBootstrap.InitializeAndSetupWorkItem(WorkItemFactoryInfo factoryInfo)
+
+=== Pre-bind state information ===
+LOG: User = Computer\Andy
+LOG: DisplayName = SuperSocket.QuickStart.TelnetServer_StartByConfig
+ (Partial)
+WRN: Partial binding information was supplied for an assembly:
+WRN: Assembly Name: SuperSocket.QuickStart.TelnetServer_StartByConfig | Domain ID: 1
+WRN: A partial bind occurs when only part of the assembly display name is provided.
+WRN: This might result in the binder loading an incorrect assembly.
+WRN: It is recommended to provide a fully specified textual identity for the assembly,
+WRN: that consists of the simple name, version, culture, and public key token.
+WRN: See whitepaper http://go.microsoft.com/fwlink/?LinkId=109270 for more information and common solutions to this issue.
+LOG: Appbase = file:///C:/Users/Andy/documents/visual studio 2010/Projects/Debbo v5/Debbo v5/bin/Debug/
+LOG: Initial PrivatePath = NULL
+Calling assembly : SuperSocket.SocketEngine, Version=1.6.2.0, Culture=neutral, PublicKeyToken=6c80000676988ebb.
+===
+LOG: This bind starts in default load context.
+LOG: Using application configuration file: C:\Users\Andy\documents\visual studio 2010\Projects\Debbo v5\Debbo v5\bin\Debug\Debbo v5.vshost.exe.config
+LOG: Using host configuration file: 
+LOG: Using machine configuration file from C:\Windows\Microsoft.NET\Framework\v4.0.30319\config\machine.config.
+LOG: Policy not being applied to reference at this time (private, custom, partial, or location-based assembly bind).
+LOG: Attempting download of new URL file:///C:/Users/Andy/documents/visual studio 2010/Projects/Debbo v5/Debbo v5/bin/Debug/SuperSocket.QuickStart.TelnetServer_StartByConfig.DLL.
+LOG: Attempting download of new URL file:///C:/Users/Andy/documents/visual studio 2010/Projects/Debbo v5/Debbo v5/bin/Debug/SuperSocket.QuickStart.TelnetServer_StartByConfig/SuperSocket.QuickStart.TelnetServer_StartByConfig.DLL.
+LOG: Attempting download of new URL file:///C:/Users/Andy/documents/visual studio 2010/Projects/Debbo v5/Debbo v5/bin/Debug/SuperSocket.QuickStart.TelnetServer_StartByConfig.EXE.
+LOG: Attempting download of new URL file:///C:/Users/Andy/documents/visual studio 2010/Projects/Debbo v5/Debbo v5/bin/Debug/SuperSocket.QuickStart.TelnetServer_StartByConfig/SuperSocket.QuickStart.TelnetServer_StartByConfig.EXE.
+
+ERROR 21884 DefaultBootstrap - You cannot invoke method Start() before initializing!
+ERROR 19752 DefaultBootstrap - Failed to create server instance TelnetServerA!
+System.IO.FileNotFoundException: Could not load file or assembly 'SuperSocket.QuickStart.TelnetServer_StartByConfig' or one of its dependencies. The system cannot find the file specified.
+File name: 'SuperSocket.QuickStart.TelnetServer_StartByConfig'
+   at System.RuntimeTypeHandle.GetTypeByName(String name, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMarkHandle stackMark, IntPtr pPrivHostBinder, Boolean loadTypeFromPartialName, ObjectHandleOnStack type)
+   at System.RuntimeTypeHandle.GetTypeByName(String name, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean loadTypeFromPartialName)
+   at System.RuntimeType.GetType(String typeName, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMark& stackMark)
+   at System.Type.GetType(String typeName, Boolean throwOnError)
+   at SuperSocket.SocketEngine.DefaultBootstrap.CreateWorkItemInstance(String serviceTypeName, StatusInfoAttribute[] serverStatusMetadata)
+   at SuperSocket.SocketEngine.DefaultBootstrap.InitializeAndSetupWorkItem(WorkItemFactoryInfo factoryInfo)
+
+=== Pre-bind state information ===
+LOG: User = Computer\Andy
+LOG: DisplayName = SuperSocket.QuickStart.TelnetServer_StartByConfig
+ (Partial)
+WRN: Partial binding information was supplied for an assembly:
+WRN: Assembly Name: SuperSocket.QuickStart.TelnetServer_StartByConfig | Domain ID: 1
+WRN: A partial bind occurs when only part of the assembly display name is provided.
+WRN: This might result in the binder loading an incorrect assembly.
+WRN: It is recommended to provide a fully specified textual identity for the assembly,
+WRN: that consists of the simple name, version, culture, and public key token.
+WRN: See whitepaper http://go.microsoft.com/fwlink/?LinkId=109270 for more information and common solutions to this issue.
+LOG: Appbase = file:///C:/Users/Andy/documents/visual studio 2010/Projects/Debbo v5/Debbo v5/bin/Debug/
+LOG: Initial PrivatePath = NULL
+Calling assembly : SuperSocket.SocketEngine, Version=1.6.2.0, Culture=neutral, PublicKeyToken=6c80000676988ebb.
+===
+LOG: This bind starts in default load context.
+LOG: Using application configuration file: C:\Users\Andy\documents\visual studio 2010\Projects\Debbo v5\Debbo v5\bin\Debug\Debbo v5.vshost.exe.config
+LOG: Using host configuration file: 
+LOG: Using machine configuration file from C:\Windows\Microsoft.NET\Framework\v4.0.30319\config\machine.config.
+LOG: Policy not being applied to reference at this time (private, custom, partial, or location-based assembly bind).
+LOG: Attempting download of new URL file:///C:/Users/Andy/documents/visual studio 2010/Projects/Debbo v5/Debbo v5/bin/Debug/SuperSocket.QuickStart.TelnetServer_StartByConfig.DLL.
+LOG: Attempting download of new URL file:///C:/Users/Andy/documents/visual studio 2010/Projects/Debbo v5/Debbo v5/bin/Debug/SuperSocket.QuickStart.TelnetServer_StartByConfig/SuperSocket.QuickStart.TelnetServer_StartByConfig.DLL.
+LOG: Attempting download of new URL file:///C:/Users/Andy/documents/visual studio 2010/Projects/Debbo v5/Debbo v5/bin/Debug/SuperSocket.QuickStart.TelnetServer_StartByConfig.EXE.
+LOG: Attempting download of new URL file:///C:/Users/Andy/documents/visual studio 2010/Projects/Debbo v5/Debbo v5/bin/Debug/SuperSocket.QuickStart.TelnetServer_StartByConfig/SuperSocket.QuickStart.TelnetServer_StartByConfig.EXE.
+
+ERROR 19752 DefaultBootstrap - You cannot invoke method Start() before initializing!
+ERROR 20552 DefaultBootstrap - Failed to create server instance TelnetServerA!
+System.IO.FileNotFoundException: Could not load file or assembly 'SuperSocket.QuickStart.TelnetServer_StartByConfig' or one of its dependencies. The system cannot find the file specified.
+File name: 'SuperSocket.QuickStart.TelnetServer_StartByConfig'
+   at System.RuntimeTypeHandle.GetTypeByName(String name, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMarkHandle stackMark, IntPtr pPrivHostBinder, Boolean loadTypeFromPartialName, ObjectHandleOnStack type)
+   at System.RuntimeTypeHandle.GetTypeByName(String name, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean loadTypeFromPartialName)
+   at System.RuntimeType.GetType(String typeName, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMark& stackMark)
+   at System.Type.GetType(String typeName, Boolean throwOnError)
+   at SuperSocket.SocketEngine.DefaultBootstrap.CreateWorkItemInstance(String serviceTypeName, StatusInfoAttribute[] serverStatusMetadata)
+   at SuperSocket.SocketEngine.DefaultBootstrap.InitializeAndSetupWorkItem(WorkItemFactoryInfo factoryInfo)
+
+=== Pre-bind state information ===
+LOG: User = Computer\Andy
+LOG: DisplayName = SuperSocket.QuickStart.TelnetServer_StartByConfig
+ (Partial)
+WRN: Partial binding information was supplied for an assembly:
+WRN: Assembly Name: SuperSocket.QuickStart.TelnetServer_StartByConfig | Domain ID: 1
+WRN: A partial bind occurs when only part of the assembly display name is provided.
+WRN: This might result in the binder loading an incorrect assembly.
+WRN: It is recommended to provide a fully specified textual identity for the assembly,
+WRN: that consists of the simple name, version, culture, and public key token.
+WRN: See whitepaper http://go.microsoft.com/fwlink/?LinkId=109270 for more information and common solutions to this issue.
+LOG: Appbase = file:///C:/Users/Andy/documents/visual studio 2010/Projects/Debbo v5/Debbo v5/bin/Debug/
+LOG: Initial PrivatePath = NULL
+Calling assembly : SuperSocket.SocketEngine, Version=1.6.2.0, Culture=neutral, PublicKeyToken=6c80000676988ebb.
+===
+LOG: This bind starts in default load context.
+LOG: Using application configuration file: C:\Users\Andy\documents\visual studio 2010\Projects\Debbo v5\Debbo v5\bin\Debug\Debbo v5.vshost.exe.Config
+LOG: Using host configuration file: 
+LOG: Using machine configuration file from C:\Windows\Microsoft.NET\Framework\v4.0.30319\config\machine.config.
+LOG: Policy not being applied to reference at this time (private, custom, partial, or location-based assembly bind).
+LOG: Attempting download of new URL file:///C:/Users/Andy/documents/visual studio 2010/Projects/Debbo v5/Debbo v5/bin/Debug/SuperSocket.QuickStart.TelnetServer_StartByConfig.DLL.
+LOG: Attempting download of new URL file:///C:/Users/Andy/documents/visual studio 2010/Projects/Debbo v5/Debbo v5/bin/Debug/SuperSocket.QuickStart.TelnetServer_StartByConfig/SuperSocket.QuickStart.TelnetServer_StartByConfig.DLL.
+LOG: Attempting download of new URL file:///C:/Users/Andy/documents/visual studio 2010/Projects/Debbo v5/Debbo v5/bin/Debug/SuperSocket.QuickStart.TelnetServer_StartByConfig.EXE.
+LOG: Attempting download of new URL file:///C:/Users/Andy/documents/visual studio 2010/Projects/Debbo v5/Debbo v5/bin/Debug/SuperSocket.QuickStart.TelnetServer_StartByConfig/SuperSocket.QuickStart.TelnetServer_StartByConfig.EXE.
+
+ERROR 20552 DefaultBootstrap - You cannot invoke method Start() before initializing!
+ERROR 6164 DefaultBootstrap - Failed to create server instance TelnetServerA!
+System.IO.FileNotFoundException: Could not load file or assembly 'SuperSocket.QuickStart.TelnetServer_StartByConfig' or one of its dependencies. The system cannot find the file specified.
+File name: 'SuperSocket.QuickStart.TelnetServer_StartByConfig'
+   at System.RuntimeTypeHandle.GetTypeByName(String name, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMarkHandle stackMark, IntPtr pPrivHostBinder, Boolean loadTypeFromPartialName, ObjectHandleOnStack type)
+   at System.RuntimeTypeHandle.GetTypeByName(String name, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean loadTypeFromPartialName)
+   at System.RuntimeType.GetType(String typeName, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMark& stackMark)
+   at System.Type.GetType(String typeName, Boolean throwOnError)
+   at SuperSocket.SocketEngine.DefaultBootstrap.CreateWorkItemInstance(String serviceTypeName, StatusInfoAttribute[] serverStatusMetadata)
+   at SuperSocket.SocketEngine.DefaultBootstrap.InitializeAndSetupWorkItem(WorkItemFactoryInfo factoryInfo)
+
+=== Pre-bind state information ===
+LOG: User = Computer\Andy
+LOG: DisplayName = SuperSocket.QuickStart.TelnetServer_StartByConfig
+ (Partial)
+WRN: Partial binding information was supplied for an assembly:
+WRN: Assembly Name: SuperSocket.QuickStart.TelnetServer_StartByConfig | Domain ID: 1
+WRN: A partial bind occurs when only part of the assembly display name is provided.
+WRN: This might result in the binder loading an incorrect assembly.
+WRN: It is recommended to provide a fully specified textual identity for the assembly,
+WRN: that consists of the simple name, version, culture, and public key token.
+WRN: See whitepaper http://go.microsoft.com/fwlink/?LinkId=109270 for more information and common solutions to this issue.
+LOG: Appbase = file:///C:/Users/Andy/documents/visual studio 2010/Projects/Debbo v5/Debbo v5/bin/Debug/
+LOG: Initial PrivatePath = NULL
+Calling assembly : SuperSocket.SocketEngine, Version=1.6.2.0, Culture=neutral, PublicKeyToken=6c80000676988ebb.
+===
+LOG: This bind starts in default load context.
+LOG: Using application configuration file: C:\Users\Andy\documents\visual studio 2010\Projects\Debbo v5\Debbo v5\bin\Debug\Debbo v5.vshost.exe.Config
+LOG: Using host configuration file: 
+LOG: Using machine configuration file from C:\Windows\Microsoft.NET\Framework\v4.0.30319\config\machine.config.
+LOG: Policy not being applied to reference at this time (private, custom, partial, or location-based assembly bind).
+LOG: Attempting download of new URL file:///C:/Users/Andy/documents/visual studio 2010/Projects/Debbo v5/Debbo v5/bin/Debug/SuperSocket.QuickStart.TelnetServer_StartByConfig.DLL.
+LOG: Attempting download of new URL file:///C:/Users/Andy/documents/visual studio 2010/Projects/Debbo v5/Debbo v5/bin/Debug/SuperSocket.QuickStart.TelnetServer_StartByConfig/SuperSocket.QuickStart.TelnetServer_StartByConfig.DLL.
+LOG: Attempting download of new URL file:///C:/Users/Andy/documents/visual studio 2010/Projects/Debbo v5/Debbo v5/bin/Debug/SuperSocket.QuickStart.TelnetServer_StartByConfig.EXE.
+LOG: Attempting download of new URL file:///C:/Users/Andy/documents/visual studio 2010/Projects/Debbo v5/Debbo v5/bin/Debug/SuperSocket.QuickStart.TelnetServer_StartByConfig/SuperSocket.QuickStart.TelnetServer_StartByConfig.EXE.
+
+ERROR 6164 DefaultBootstrap - You cannot invoke method Start() before initializing!
+ERROR 12908 DefaultBootstrap - Failed to create server instance TelnetServerA!
+System.IO.FileNotFoundException: Could not load file or assembly 'SuperSocket.QuickStart.TelnetServer_StartByConfig' or one of its dependencies. The system cannot find the file specified.
+File name: 'SuperSocket.QuickStart.TelnetServer_StartByConfig'
+   at System.RuntimeTypeHandle.GetTypeByName(String name, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMarkHandle stackMark, IntPtr pPrivHostBinder, Boolean loadTypeFromPartialName, ObjectHandleOnStack type)
+   at System.RuntimeTypeHandle.GetTypeByName(String name, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean loadTypeFromPartialName)
+   at System.RuntimeType.GetType(String typeName, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMark& stackMark)
+   at System.Type.GetType(String typeName, Boolean throwOnError)
+   at SuperSocket.SocketEngine.DefaultBootstrap.CreateWorkItemInstance(String serviceTypeName, StatusInfoAttribute[] serverStatusMetadata)
+   at SuperSocket.SocketEngine.DefaultBootstrap.InitializeAndSetupWorkItem(WorkItemFactoryInfo factoryInfo)
+
+=== Pre-bind state information ===
+LOG: User = Computer\Andy
+LOG: DisplayName = SuperSocket.QuickStart.TelnetServer_StartByConfig
+ (Partial)
+WRN: Partial binding information was supplied for an assembly:
+WRN: Assembly Name: SuperSocket.QuickStart.TelnetServer_StartByConfig | Domain ID: 1
+WRN: A partial bind occurs when only part of the assembly display name is provided.
+WRN: This might result in the binder loading an incorrect assembly.
+WRN: It is recommended to provide a fully specified textual identity for the assembly,
+WRN: that consists of the simple name, version, culture, and public key token.
+WRN: See whitepaper http://go.microsoft.com/fwlink/?LinkId=109270 for more information and common solutions to this issue.
+LOG: Appbase = file:///C:/Users/Andy/documents/visual studio 2010/Projects/Debbo v5/Debbo v5/bin/Debug/
+LOG: Initial PrivatePath = NULL
+Calling assembly : SuperSocket.SocketEngine, Version=1.6.2.0, Culture=neutral, PublicKeyToken=6c80000676988ebb.
+===
+LOG: This bind starts in default load context.
+LOG: Using application configuration file: C:\Users\Andy\documents\visual studio 2010\Projects\Debbo v5\Debbo v5\bin\Debug\Debbo v5.vshost.exe.Config
+LOG: Using host configuration file: 
+LOG: Using machine configuration file from C:\Windows\Microsoft.NET\Framework\v4.0.30319\config\machine.config.
+LOG: Policy not being applied to reference at this time (private, custom, partial, or location-based assembly bind).
+LOG: Attempting download of new URL file:///C:/Users/Andy/documents/visual studio 2010/Projects/Debbo v5/Debbo v5/bin/Debug/SuperSocket.QuickStart.TelnetServer_StartByConfig.DLL.
+LOG: Attempting download of new URL file:///C:/Users/Andy/documents/visual studio 2010/Projects/Debbo v5/Debbo v5/bin/Debug/SuperSocket.QuickStart.TelnetServer_StartByConfig/SuperSocket.QuickStart.TelnetServer_StartByConfig.DLL.
+LOG: Attempting download of new URL file:///C:/Users/Andy/documents/visual studio 2010/Projects/Debbo v5/Debbo v5/bin/Debug/SuperSocket.QuickStart.TelnetServer_StartByConfig.EXE.
+LOG: Attempting download of new URL file:///C:/Users/Andy/documents/visual studio 2010/Projects/Debbo v5/Debbo v5/bin/Debug/SuperSocket.QuickStart.TelnetServer_StartByConfig/SuperSocket.QuickStart.TelnetServer_StartByConfig.EXE.
+
+ERROR 12908 DefaultBootstrap - You cannot invoke method Start() before initializing!
+ERROR 22300 DefaultBootstrap - Failed to create server instance TelnetServerA!
+System.IO.FileNotFoundException: Could not load file or assembly 'SuperSocket.QuickStart.TelnetServer_StartByConfig' or one of its dependencies. The system cannot find the file specified.
+File name: 'SuperSocket.QuickStart.TelnetServer_StartByConfig'
+   at System.RuntimeTypeHandle.GetTypeByName(String name, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMarkHandle stackMark, IntPtr pPrivHostBinder, Boolean loadTypeFromPartialName, ObjectHandleOnStack type)
+   at System.RuntimeTypeHandle.GetTypeByName(String name, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean loadTypeFromPartialName)
+   at System.RuntimeType.GetType(String typeName, Boolean throwOnError, Boolean ignoreCase, Boolean reflectionOnly, StackCrawlMark& stackMark)
+   at System.Type.GetType(String typeName, Boolean throwOnError)
+   at SuperSocket.SocketEngine.DefaultBootstrap.CreateWorkItemInstance(String serviceTypeName, StatusInfoAttribute[] serverStatusMetadata)
+   at SuperSocket.SocketEngine.DefaultBootstrap.InitializeAndSetupWorkItem(WorkItemFactoryInfo factoryInfo)
+
+=== Pre-bind state information ===
+LOG: User = Computer\Andy
+LOG: DisplayName = SuperSocket.QuickStart.TelnetServer_StartByConfig
+ (Partial)
+WRN: Partial binding information was supplied for an assembly:
+WRN: Assembly Name: SuperSocket.QuickStart.TelnetServer_StartByConfig | Domain ID: 1
+WRN: A partial bind occurs when only part of the assembly display name is provided.
+WRN: This might result in the binder loading an incorrect assembly.
+WRN: It is recommended to provide a fully specified textual identity for the assembly,
+WRN: that consists of the simple name, version, culture, and public key token.
+WRN: See whitepaper http://go.microsoft.com/fwlink/?LinkId=109270 for more information and common solutions to this issue.
+LOG: Appbase = file:///C:/Users/Andy/documents/visual studio 2010/Projects/Debbo v5/Debbo v5/bin/Debug/
+LOG: Initial PrivatePath = NULL
+Calling assembly : SuperSocket.SocketEngine, Version=1.6.2.0, Culture=neutral, PublicKeyToken=6c80000676988ebb.
+===
+LOG: This bind starts in default load context.
+LOG: Using application configuration file: C:\Users\Andy\documents\visual studio 2010\Projects\Debbo v5\Debbo v5\bin\Debug\Debbo v5.vshost.exe.Config
+LOG: Using host configuration file: 
+LOG: Using machine configuration file from C:\Windows\Microsoft.NET\Framework\v4.0.30319\config\machine.config.
+LOG: Policy not being applied to reference at this time (private, custom, partial, or location-based assembly bind).
+LOG: Attempting download of new URL file:///C:/Users/Andy/documents/visual studio 2010/Projects/Debbo v5/Debbo v5/bin/Debug/SuperSocket.QuickStart.TelnetServer_StartByConfig.DLL.
+LOG: Attempting download of new URL file:///C:/Users/Andy/documents/visual studio 2010/Projects/Debbo v5/Debbo v5/bin/Debug/SuperSocket.QuickStart.TelnetServer_StartByConfig/SuperSocket.QuickStart.TelnetServer_StartByConfig.DLL.
+LOG: Attempting download of new URL file:///C:/Users/Andy/documents/visual studio 2010/Projects/Debbo v5/Debbo v5/bin/Debug/SuperSocket.QuickStart.TelnetServer_StartByConfig.EXE.
+LOG: Attempting download of new URL file:///C:/Users/Andy/documents/visual studio 2010/Projects/Debbo v5/Debbo v5/bin/Debug/SuperSocket.QuickStart.TelnetServer_StartByConfig/SuperSocket.QuickStart.TelnetServer_StartByConfig.EXE.
+
+ERROR 22300 DefaultBootstrap - You cannot invoke method Start() before initializing!
+INFO 9 ActionLogger - ClientServer instantiated successfully!
+INFO 9 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 9 ActionLogger - ClientServer instantiated successfully!
+INFO 9 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 10 ActionLogger - ClientServer instantiated successfully!
+INFO 10 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 8 ActionLogger - ClientServer instantiated successfully!
+INFO 8 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 9 ActionLogger - ClientServer instantiated successfully!
+INFO 9 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 10 ActionLogger - Received data...
+INFO 10 ActionLogger - ClientServer instantiated successfully!
+INFO 10 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 10 ActionLogger - ClientServer instantiated successfully!
+INFO 10 ActionLogger - Accepted client[1] on 
+INFO 10 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 11 ActionLogger - Accepted client[2] on 
+INFO 11 ActionLogger - Received data...
+INFO 10 ActionLogger - ClientServer instantiated successfully!
+INFO 10 ActionLogger - Accepted client[1] on 
+INFO 10 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 10 ActionLogger - ClientServer instantiated successfully!
+INFO 10 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 11 ActionLogger - Accepted client[1] on 127.0.0.1:90
+INFO 11 ActionLogger - Received data...
+INFO 11 ActionLogger - Accepted client[2] on 127.0.0.1:90
+INFO 11 ActionLogger - Received data...
+INFO 11 ActionLogger - Accepted client[3] on 127.0.0.1:90
+INFO 11 ActionLogger - Received data...
+INFO 9 ActionLogger - ClientServer instantiated successfully!
+INFO 9 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 8 ActionLogger - ClientServer instantiated successfully!
+INFO 8 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 9 ActionLogger - Accepted client[1] on 127.0.0.1:90
+INFO 9 ActionLogger - ClientServer instantiated successfully!
+INFO 9 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 10 ActionLogger - Accepted client[1] on 127.0.0.1:90
+INFO 8 ActionLogger - Failed to start tcpSocket on port: 90
+INFO 9 ActionLogger - The type initializer for 'Networking.NetworkHandler' threw an exception.
+INFO 9 ActionLogger - The type initializer for 'Networking.NetworkHandler' threw an exception.
+INFO 8 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 8 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 9 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 8 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 10 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 10 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 9 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 8 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 9 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 8 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 9 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 8 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 10 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 9 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 10 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 9 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 10 ActionLogger - Client[1] has connected on 127.0.0.1:90
+INFO 10 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 11 ActionLogger - Client[1] has connected on 127.0.0.1:90
+INFO 10 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 11 ActionLogger - Client[1] has connected on 127.0.0.1:90
+INFO 10 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 10 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 11 ActionLogger - Client[1] has connected on 127.0.0.1:90
+INFO 8 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 9 ActionLogger - Client[1] has connected on 127.0.0.1:90
+INFO 8 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 9 ActionLogger - Client[1] has connected on 127.0.0.1:90
+INFO 9 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 7 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 9 ActionLogger - SessionManager instantiated successfully!
+INFO 9 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 10 ActionLogger - SessionManager instantiated successfully!
+INFO 10 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 11 ActionLogger - Client[1] has connected on 127.0.0.1:90
+ERROR 11 ActionLogger - Object reference not set to an instance of an object.
+INFO 8 ActionLogger - SessionManager instantiated successfully!
+INFO 8 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 9 ActionLogger - Client[1] has connected on 127.0.0.1:90
+ERROR 9 ActionLogger - Object reference not set to an instance of an object.
+INFO 10 ActionLogger - SessionManager instantiated successfully!
+INFO 10 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 11 ActionLogger - Client[1] has connected on 127.0.0.1:90
+INFO 9 ActionLogger - SessionManager instantiated successfully!
+INFO 9 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 9 ActionLogger - SessionManager instantiated successfully!
+INFO 9 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 10 ActionLogger - SessionManager instantiated successfully!
+INFO 10 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 11 ActionLogger - Client[1] has connected on 127.0.0.1:90
+INFO 10 ActionLogger - SessionManager instantiated successfully!
+INFO 10 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 11 ActionLogger - Client[1] has connected on 127.0.0.1:90
+INFO 9 ActionLogger - SessionManager instantiated successfully!
+INFO 9 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 10 ActionLogger - Client[1] has connected on 127.0.0.1:90
+INFO 9 ActionLogger - SessionManager instantiated successfully!
+INFO 9 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 10 ActionLogger - Client[1] has connected on 127.0.0.1:90
+INFO 9 ActionLogger - SessionManager instantiated successfully!
+INFO 9 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 10 ActionLogger - Client[1] has connected on 127.0.0.1:90
+INFO 8 ActionLogger - SessionManager instantiated successfully!
+INFO 8 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 9 ActionLogger - Client[1] has connected on 127.0.0.1:90
+INFO 10 ActionLogger - SessionManager instantiated successfully!
+INFO 10 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 10 ActionLogger - SessionManager instantiated successfully!
+INFO 10 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 11 ActionLogger - Client[1] has connected on 127.0.0.1:90
+INFO 10 ActionLogger - SessionManager instantiated successfully!
+INFO 10 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 9 ActionLogger - SessionManager instantiated successfully!
+INFO 9 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 10 ActionLogger - Client[1] has connected on 127.0.0.1:90
+INFO 9 ActionLogger - SessionManager instantiated successfully!
+INFO 9 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 10 ActionLogger - SessionManager instantiated successfully!
+INFO 10 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 11 ActionLogger - Client[1] has connected on 127.0.0.1:90
+INFO 10 ActionLogger - SessionManager instantiated successfully!
+INFO 10 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 11 ActionLogger - Client[1] has connected on 127.0.0.1:90
+INFO 10 ActionLogger - SessionManager instantiated successfully!
+INFO 10 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 11 ActionLogger - Client[1] has connected on 127.0.0.1:90
+INFO 9 ActionLogger - SessionManager instantiated successfully!
+INFO 9 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 10 ActionLogger - Client[1] has connected on 127.0.0.1:90
+INFO 9 ActionLogger - SessionManager instantiated successfully!
+INFO 9 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 10 ActionLogger - Client[1] has connected on 127.0.0.1:90
+INFO 10 ActionLogger - SessionManager instantiated successfully!
+INFO 10 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 11 ActionLogger - Client[1] has connected on 127.0.0.1:90
+INFO 9 ActionLogger - SessionManager instantiated successfully!
+INFO 9 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 10 ActionLogger - SessionManager instantiated successfully!
+INFO 10 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 9 ActionLogger - SessionManager instantiated successfully!
+INFO 9 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 10 ActionLogger - Client[1] has connected on 127.0.0.1:90
+INFO 8 ActionLogger - SessionManager instantiated successfully!
+INFO 8 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 9 ActionLogger - Client[1] has connected on 127.0.0.1:90
+INFO 9 ActionLogger - SessionManager instantiated successfully!
+INFO 9 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 10 ActionLogger - Client[1] has connected on 127.0.0.1:90
+INFO 10 ActionLogger - SessionManager instantiated successfully!
+INFO 10 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 9 ActionLogger - SessionManager instantiated successfully!
+INFO 9 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 8 ActionLogger - SessionManager instantiated successfully!
+INFO 8 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 9 ActionLogger - Client[1] has connected on 127.0.0.1:90
+INFO 10 ActionLogger - SessionManager instantiated successfully!
+INFO 10 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 6 ActionLogger - Client[1] has connected on 127.0.0.1:90
+INFO 8 ActionLogger - SessionManager instantiated successfully!
+INFO 8 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 10 ActionLogger - SessionManager instantiated successfully!
+INFO 10 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 11 ActionLogger - Client[1] has connected on 127.0.0.1:90
+INFO 9 ActionLogger - SessionManager instantiated successfully!
+INFO 9 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 8 ActionLogger - SessionManager instantiated successfully!
+INFO 8 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 9 ActionLogger - Client[1] has connected on 127.0.0.1:90
+INFO 9 ActionLogger - Client[2] has connected on 127.0.0.1:90
+INFO 10 ActionLogger - SessionManager instantiated successfully!
+INFO 10 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 11 ActionLogger - Client[1] has connected on 127.0.0.1:90
+INFO 8 ActionLogger - SessionManager instantiated successfully!
+INFO 8 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 10 ActionLogger - SessionManager instantiated successfully!
+INFO 10 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 11 ActionLogger - Client[1] has connected on 127.0.0.1:90
+INFO 9 ActionLogger - SessionManager instantiated successfully!
+INFO 9 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 10 ActionLogger - Client[1] has connected on 127.0.0.1:90
+INFO 10 ActionLogger - Client[2] has connected on 127.0.0.1:90
+INFO 10 ActionLogger - Client[3] has connected on 127.0.0.1:90
+INFO 10 ActionLogger - Client[4] has connected on 127.0.0.1:90
+INFO 10 ActionLogger - Client[5] has connected on 127.0.0.1:90
+INFO 9 ActionLogger - SessionManager instantiated successfully!
+INFO 9 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 9 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 10 ActionLogger - SessionManager instantiated successfully!
+INFO 10 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 11 ActionLogger - Client[1] has connected on 127.0.0.1:90
+INFO 10 ActionLogger - SessionManager instantiated successfully!
+INFO 10 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 8 ActionLogger - SessionManager instantiated successfully!
+INFO 8 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 9 ActionLogger - Client[1] has connected on 127.0.0.1:90
+INFO 10 ActionLogger - SessionManager instantiated successfully!
+INFO 10 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 11 ActionLogger - Client[1] has connected on 127.0.0.1:90
+INFO 10 ActionLogger - SessionManager instantiated successfully!
+INFO 10 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 11 ActionLogger - Client[1] has connected on 127.0.0.1:90
+INFO 8 ActionLogger - SessionManager instantiated successfully!
+INFO 8 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 9 ActionLogger - Client[1] has connected on 127.0.0.1:90
+INFO 9 ActionLogger - SessionManager instantiated successfully!
+INFO 9 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 10 ActionLogger - Client[1] has connected on 127.0.0.1:90
+INFO 9 ActionLogger - SessionManager instantiated successfully!
+INFO 9 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 10 ActionLogger - Client[1] has connected on 127.0.0.1:90
+INFO 10 ActionLogger - SessionManager instantiated successfully!
+INFO 10 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 11 ActionLogger - Client[1] has connected on 127.0.0.1:90
+INFO 9 ActionLogger - SessionManager instantiated successfully!
+INFO 9 ActionLogger - Listening for connections on 0.0.0.0:90
+INFO 10 ActionLogger - Client[1] has connected on 127.0.0.1:90
